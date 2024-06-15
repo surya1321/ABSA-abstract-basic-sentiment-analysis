@@ -1,1 +1,1 @@
-# ABSA-abstract-basic-sentiment-analysis
+# ABSA-aspect-basic-sentiment-analysis
